@@ -1,0 +1,20 @@
+# Next Word Predictor Dependencies
+# Core Deep Learning & NLP
+tensorflow>=2.15.0
+keras>=3.0.0
+
+# Scientific Computing & Data Processing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Visualization & Interactive Notebooks
+matplotlib>=3.8.0
+jupyter>=1.0.0
+ipykernel>=6.29.0
+notebook>=7.0.0
+
+# Interactive Web Application
+streamlit>=1.30.0
+
+# Utilities
+requests>=2.31.0

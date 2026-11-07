@@ -1,0 +1,8 @@
+{
+    "max_sequence_len": 12,
+    "vocab_size": 1787,
+    "embedding_dim": 100,
+    "lstm_units": 150,
+    "epochs": 25,
+    "final_loss": 0.5156238675117493
+}
